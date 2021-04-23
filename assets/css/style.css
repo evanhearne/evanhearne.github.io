@@ -22,3 +22,13 @@ li.navbar-contents a {
 li.navbar-contents a:hover {
   background-color: #111;
 }
+
+img.receiver_img {
+  max-height: 50%;
+  max-width: 50%;
+}
+
+img.sender_img {
+  max-height: 50%;
+  max-width: 50%;
+}
