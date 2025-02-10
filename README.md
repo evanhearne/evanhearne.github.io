@@ -1,4 +1,4 @@
-Page
+# FYP 2 Showcase 1 Landing Page
 
 | Name             | Evan Hearne |
 |------------------|-------------|
