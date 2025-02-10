@@ -2,8 +2,9 @@
 
 ## BetterTFI - an open-source approach to navigating public transport using a cross platform mobile app.
 
-|Name|Evan Hearne|
+|||
 |-----|----------|
+|Name|Evan Hearne|
 |Student Number|20097562|
 |Academic Title|Improving the user experience of mobile applications for public transportation in Ireland|
 |Commercial Title|BetterTFI|
